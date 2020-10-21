@@ -22,3 +22,6 @@
 [submodule "mods/worldedit"]
 	path = mods/worldedit
 	url = https://github.com/Uberi/Minetest-WorldEdit
+[submodule "mods/basic_materials"]
+	path = mods/basic_materials
+	url = https://gitlab.com/VanessaE/basic_materials
