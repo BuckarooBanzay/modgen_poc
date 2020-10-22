@@ -49,3 +49,6 @@
 [submodule "mods/invsaw"]
 	path = mods/invsaw
 	url = https://github.com/minetest-mirrors/invsaw
+[submodule "mods/factory_bridges"]
+	path = mods/factory_bridges
+	url = https://github.com/narrnika/factory_bridges
