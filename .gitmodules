@@ -34,3 +34,9 @@
 [submodule "mods/digiterms"]
 	path = mods/digiterms
 	url = https://github.com/pyrollo/digiterms
+[submodule "mods/display_modpack"]
+	path = mods/display_modpack
+	url = https://github.com/pyrollo/display_modpack
+[submodule "mods/font_botic"]
+	path = mods/font_botic
+	url = https://github.com/pyrollo/font_botic
