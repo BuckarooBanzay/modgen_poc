@@ -52,3 +52,12 @@
 [submodule "mods/factory_bridges"]
 	path = mods/factory_bridges
 	url = https://github.com/narrnika/factory_bridges
+[submodule "mods/soundblock_scifi"]
+	path = mods/soundblock_scifi
+	url = https://github.com/mt-mods/soundblock_scifi
+[submodule "mods/particlefountain"]
+	path = mods/particlefountain
+	url = https://github.com/damocles-minetest/particlefountain
+[submodule "mods/soundblock"]
+	path = mods/soundblock
+	url = https://github.com/mt-mods/soundblock
