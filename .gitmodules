@@ -40,3 +40,6 @@
 [submodule "mods/font_botic"]
 	path = mods/font_botic
 	url = https://github.com/pyrollo/font_botic
+[submodule "mods/morelights"]
+	path = mods/morelights
+	url = https://github.com/random-geek/morelights
