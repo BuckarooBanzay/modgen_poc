@@ -61,3 +61,6 @@
 [submodule "mods/soundblock"]
 	path = mods/soundblock
 	url = https://github.com/mt-mods/soundblock
+[submodule "mods/digistuff"]
+	path = mods/digistuff
+	url = https://github.com/minetest-mirrors/digistuff/
