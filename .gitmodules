@@ -85,3 +85,6 @@
 [submodule "mods/xpanes"]
 	path = mods/xpanes
 	url = https://github.com/minetest-game/xpanes
+[submodule "mods/sfinv"]
+	path = mods/sfinv
+	url = https://github.com/minetest-game/sfinv
