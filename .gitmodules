@@ -64,3 +64,24 @@
 [submodule "mods/digistuff"]
 	path = mods/digistuff
 	url = https://github.com/minetest-mirrors/digistuff/
+[submodule "mods/creative"]
+	path = mods/creative
+	url = https://github.com/minetest-game/creative
+[submodule "mods/doors"]
+	path = mods/doors
+	url = https://github.com/minetest-game/doors
+[submodule "mods/dye"]
+	path = mods/dye
+	url = https://github.com/minetest-game/dye
+[submodule "mods/default"]
+	path = mods/default
+	url = https://github.com/minetest-game/default
+[submodule "mods/player_api"]
+	path = mods/player_api
+	url = https://github.com/minetest-game/player_api
+[submodule "mods/screwdriver"]
+	path = mods/screwdriver
+	url = https://github.com/minetest-game/screwdriver
+[submodule "mods/xpanes"]
+	path = mods/xpanes
+	url = https://github.com/minetest-game/xpanes
